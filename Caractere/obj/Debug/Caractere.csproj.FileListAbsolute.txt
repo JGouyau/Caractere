@@ -1,0 +1,7 @@
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\obj\Debug\Caractere.csproj.AssemblyReference.cache
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\obj\Debug\Caractere.csproj.CoreCompileInputs.cache
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\bin\Debug\Caractere.exe.config
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\bin\Debug\Caractere.exe
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\bin\Debug\Caractere.pdb
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\obj\Debug\Caractere.exe
+C:\Users\tiska\Desktop\wcs\Quetes\Caractere\Caractere\obj\Debug\Caractere.pdb
